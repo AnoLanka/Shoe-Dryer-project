@@ -46,5 +46,3 @@ includes:
 
 The next stages will involve completing the CAD design, constructing the
 prototype and testing airflow, temperature and drying performance.
-
-> This repository will be updated throughout the development of the project.
