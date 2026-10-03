@@ -1,4 +1,4 @@
-# Shoe-Dryer-project
+# Shoe Drying System 
 
 **Status: Under Development**
 
@@ -31,7 +31,7 @@ includes:
 - Airflow and heat transfer
 - Prototyping and testing
 
-## Development process
+## Development Process
 
 1. Problem identification
 2. Requirements and research
